@@ -1,2 +1,2 @@
-# B-i-t-p-XSTK_UET_25022106
-Bài tập các tuần môn Xác suất Thống kê - VNU UET.
+
+# Bài tập các tuần môn Xác suất Thống kê - VNU UET.
